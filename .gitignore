@@ -3,6 +3,7 @@
 
 # Production
 /build
+/.github/workflows/deploy.yml
 
 # Generated files
 .docusaurus

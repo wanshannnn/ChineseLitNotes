@@ -12,7 +12,7 @@ const config = {
   tagline: '一个中文系相关的网站',
 
   url: 'https://wanshannnn.github.io',
-  baseUrl: '/',
+  baseUrl: '/ChineseLitNotes',
 
   organizationName: 'wanshannnn',
   projectName: 'ChineseLitNotes',
