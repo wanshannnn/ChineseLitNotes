@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '笔记',
+    title: '复习笔记',
     Svg: null,
     description: (
       <>
-        你可以浏览中文系本科课程的学习笔记。
+        你可以在口袋书的各个课程的文档中阅读笔记，利用碎片时间复习课程知识。
       </>
     ),
   },
   {
-    title: '发表',
+    title: '发表评论',
     Svg: null,
     description: (
       <>
-        你可以发表你的观点、补充知识或提问。
+        你可以在每个文档下方的评论区补充知识点、发表观点，为口袋书增加新的内容。
       </>
     ),
   },
   {
-    title: '交友',
+    title: '交流话题',
     Svg: null,
     description: (
       <>
-       你可以认识其他中文系的同学。
+        你可以在交流论坛中讨论与中文系学习、生活相关的任何话题，并结交新的朋友。
       </>
     ),
   },

@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ChineseLitNotes',
-  tagline: '一个中文系相关的网站',
+  tagline: '给中文系学生的电子口袋书',
 
   url: 'https://wanshannnn.github.io',
   baseUrl: '/ChineseLitNotes',
