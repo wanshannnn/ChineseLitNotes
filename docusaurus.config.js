@@ -70,6 +70,18 @@ const config = {
             label: '当代文学',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'Sidebar3',
+            position: 'left',
+            label: '现代汉语',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'Sidebar4',
+            position: 'left',
+            label: '交流区',
+          },
+          {
             href: 'https://github.com/wanshannnn/ChineseLitNotes',
             label: 'GitHub',
             position: 'right',
@@ -78,7 +90,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} ChineseLitNotes, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} wanshannnn. All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,
