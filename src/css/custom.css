@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+#footer-view-count {
+  margin-bottom: 0.5rem; /* 设置底部间距 */
+  margin-top: 0.5rem;    /* 设置顶部间距 */
+  text-align: center;  /* 让浏览量居中显示 */
+  font-style: normal;  /* 去掉斜体 */
+  font-size: 0.8rem;   /* 控制字体大小 */
+  line-height: 1.0rem; /* 度控制行高，也可以用来设置上下的视觉高 */
+}

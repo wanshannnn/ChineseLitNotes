@@ -25,6 +25,13 @@ const config = {
     locales: ['zh-Hans'],
   },
 
+  scripts: [
+    {
+      src: 'https://unpkg.com/valine/dist/Valine.min.js',
+      async: true,
+    },
+  ],
+
   presets: [
     [
       'classic',
