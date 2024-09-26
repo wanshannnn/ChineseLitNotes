@@ -1,0 +1,498 @@
+"use strict";
+exports.id = 825;
+exports.ids = [825];
+exports.modules = {
+
+/***/ 5642:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* binding */ metadata),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(4848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8453);
+
+
+const frontMatter = {
+	sidebar_label: '10. 1980年代中后期的小说',
+	sidebar_position: 10
+};
+const contentTitle = undefined;
+const metadata = {
+  "id": "当代文学/1980年代中后期的小说",
+  "title": "1980年代中后期的小说",
+  "description": "一、80年代中后期的小说（一）",
+  "source": "@site/docs/当代文学/10. 1980年代中后期的小说.md",
+  "sourceDirName": "当代文学",
+  "slug": "/当代文学/1980年代中后期的小说",
+  "permalink": "/ChineseLitNotes/docs/当代文学/1980年代中后期的小说",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "10. 1980年代中后期的小说",
+    "sidebar_position": 10
+  },
+  "sidebar": "Sidebar2",
+  "previous": {
+    "title": "9. 1980年代文学",
+    "permalink": "/ChineseLitNotes/docs/当代文学/1980年代文学"
+  }
+};
+const assets = {
+
+};
+
+
+
+const toc = [];
+function _createMdxContent(props) {
+  const _components = {
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "一、80年代中后期的小说（一）"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "1、文学的“寻根”"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "1984年杭州《新时期文学：回顾与预测》，韩少功《文学的“根”》，郑万隆《我的根》，李杭育《理一理我们的“根”》，阿城《文化制约着人类》等。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "汪曾祺《受戒》《大淖记事》，王蒙《在伊犁》为寻根思潮源头。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "贾平凹“商州系列“，李杭育”葛川江小说系列”等。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "批评质疑，“复古”倾向，忽略现实社会人生问题和矛盾。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "以“现代意识”来重新关照“传统”，寻找民族文化精神的“本原”性构成，将能为民族精神的修复，为“现代化”的进程提供可靠的根基。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "迫切摆脱困境的有效之路。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "中国文学应该建立在对“文化岩层”的广泛而深厚的“文化开凿”之中，才能与世界文学对话。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "2、“寻根”的主张"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "“寻根”的主张，推动了这个时期已经开始的文学表现领域的转移，出现偏离强烈政治意识形态性，偏离现实批判、政治历史反思的现象。表现为，小说对于世俗日常生活，对于日常生活相关的风俗、地域文化的浓厚兴趣。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "认为“风俗是一个民族集团创作的生活抒情诗”的汪曾祺，对民俗在小说情调、氛围、人的心理表现的重要性的理解，和沈从文有内在联系。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "相对伤痕、反思小说，寻根倾向的小说在历史、美学观上，不管是整体面貌，还是各别文本，都显得较为复杂、暧昧。对儒家学说批判，认为野史、传说、民歌、偏远地域的民情风俗，以及道家思想和禅宗哲学中，有更多的文化精华。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "3、“寻根”小说艺术形态"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "在小说艺术探索上，一些作家受福克纳、马尔克斯启发，把对于生活情景、细节的真实描述，与幻想、象征、寓言的因素糅合，创造出一种独特的艺术情境。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "叙事变换的技巧，在叙述者和故事人物，叙述时间和故事时间上构成复杂关系，以此强化小说的叙述意识。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "以现代意识来审察中国传统审美思维、表达方法，开发传统小说的艺术要素，成为艺术创造更主要的追求。这首先表现为小说整体情调、氛围营造的重现。其次，小说语言或者向着平淡、节制、简洁的方向倾斜，或者直接融进文言词汇、句式，以丰富语言的内涵、表现力，增强小说语言的“柔韧性”。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "小说的章法、结构、叙事方式，也都可以看到向古代小说取法的情况。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "4、风俗乡土小说"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（1）邓友梅"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《话说陶然亭》《寻找画儿韩，》《那五》《烟壶》等“京味小说”，人物包括皇族后裔、八旗子弟、工匠艺人、梨园票友、落魄文人等。在19世纪末期以来急剧的社会变动中，他们与社会大潮的龃龉、冲突，和经历的社会边缘化命运，使他们的性格、言谈举止中，蕴涵了社会文化变迁的刻痕。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（2）陈建功"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "创作两个系列：一是以感伤笔调写知青和知识分子遭遇；一是表现居住于小胡同、大杂院里的北京普通市民的日常生活。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（3）冯骥才"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《雕花烟斗》《高女人和她的矮丈夫》《感谢生活》，写文革历史和人的悲剧性遭遇，揭示人性的扭曲，不过，人与人之间的温情，常是处于逆境的人物苦难生活的支撑，构成作品的“底色”。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "“世怪奇谈”系列，《神鞭》《三寸金莲》《阴阳八卦》等，传奇性，娱乐性。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（4）陆文夫"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "苏州的工厂里巷，《美食家》，姑苏地区精致饮食等文化积淀，当代社会政治的变迁，在朱自冶这一人物命运沉浮上聚合、纠结。虽说贯穿政治性主题，但对苏州饮食等的描述，常逸出这一轨道而成为作品中最多彩的部分。叙述上张弛有序的节奏，富于韵味的幽默语言，也是这部作品的重要特色。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "4、几位小说家的创作"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（1）汪曾祺：最后一位士大夫"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "他的短篇，大多取材家乡高邮乡村和市镇的旧日生活，也有的写到昆明、张家口坝上、北京等的各色人等、行状。作品中有传神的细节刻画，也流动着为记忆过滤、培育的情感。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "“我的一部分作品的感情是忧伤，比如《职业》《幽冥钟》；一部分作品则有一种内在的欢乐，比如《受戒》《大淖记事》；一部分作品则由于对命运的无可奈何转化出一种常有苦味的嘲谑，比如《云致秋行状》《异秉》。但是总起来说，我是一个乐观主义者。我的作品不是悲剧。我的作品缺乏崇高、悲壮的美。我所追求的不是深刻，而是和谐。”"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "对于市井平民、下层读书人僵硬刻板的生活，和他们某些卑琐的心理行为，他不无针砭和嘲讽，却不苛刻且有同情；而更多的是发现乡镇民间生活的美和健康人性。小说中的那种中国传统“文人”的情调和视角，也因民间具有生命活力的因素而受到“拯救”，某些陈旧气息受到抑制。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "汪曾祺小说注重风俗民情的表现。他既不特别设计情节和冲突，增强小说的故事性，着意塑造“典型人物”，但也不想把风俗民情作为故事推进、人物性格发展的“有机”因素。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "他执意减弱、消除“戏剧化”设计，是叙述呈现如日常生活般的“自然形态”。他继续的是40年代“京派作家”的那种质疑“戏剧化小说”，提倡“散文化小说”的努力。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "在“散文化”随意轻便的叙述中，让情致、寄托也自然地融贯其间。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "文字则简洁、节制、质朴，但也不缺乏幽默和典雅。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "汪曾祺在小说的文体上的创造，影响了当代一些小说和散文作家的创作。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（2）莫言"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《透明的红萝卜》：由于感觉、想象力的丰富而受到读者和评论界的关注。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《红高粱家族》：故乡高密是莫言很长时间里文学想象的源泉；故事大多以对故乡的记忆为背景展开。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《丰乳肥臀》，展现了中国现代文学此前少见的乡村天地：狂躁、混杂，充满酒气和血色，有骁勇血性的人物，和无所拘束的激情。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "通过文字构造一个能不断叙述的“高密东北乡”、"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "在充满野性活力土地上有关“先人”生命的奔放，和传奇性经历的叙述中，隐含了对后代在生存上压抑，人性的扭曲的伤感、迷惘。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "莫言的小说，表现了开放自己感觉的那种感性化风格。他的写作，对当代小说过分的观念结构所形成的文体模式，是一次冲击。他采用了一种天马行空、不受拘束的叙述方式。在描述中，心理的流动、跳跃、联想是叙述的角度和驱动力，并有大量的感官意象奔涌而来，而创造一个色彩斑斓的感觉世界。90年代以来，虽然奔涌的叙述方式有了朝着内敛、节制的方向演变，但他突破艺术成规，并积极运用、转化“民间资源”以表现其“化腐朽为神奇”的艺术探索仍在不断推进。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（3）贾平凹"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "商州系列小说，《小月前本》《鸡窝洼人家》《腊月·正月》《商州》《浮躁》等。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "对陕南山区自然和人文景观的用心描写，有意识地为人物的活动和心理特征，提供地域文化的依据和背景。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "社会变迁所引起的人生体味"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《废都》"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "二、80年代中后期的小说（二）"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "1、文学创新与“现代派文学”"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "个体心理意识的重视，“意识流”叙事，荒诞、变形、寓言的现代技法"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "文学与政治的疏离、文学的边缘化，对于特定时空的社会政治的超越，摆脱经典社会主义现实主义方法，追求“本体意味”的形式和“永恒”的生存命题，成为当时富诱惑力的探索趋向。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "刘索拉《你别无选择》，徐星《无主题变奏》，以及残雪的非现实意象的中短篇，写自愿游离于主流社会的愤怒的青年叛逆的情绪、生活。他们对主流的价值观、生活方式，持蔑视、嘲讽的姿态；以或愤世嫉俗、或戏谑的叙述，来质疑当代基于某种价值标准之上的观念和行为规范。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "西方资源《麦田的守望者》《在路上》《第二十二条军规》"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "“伪现代派”争论"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "2、“先锋小说”的实验"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "文体的自觉、虚构性、叙述在小说方法上的意义。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "法国“新小说”、马尔克斯、博尔赫斯"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "马原《拉萨河的女神》《冈底斯的诱惑》《西海无帆船》"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "洪峰《奔丧》，对叙述与意义的探讨，不同于马原。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "余华《十八岁出门远行》，格非《迷舟》，孙甘露《信使之函》，苏童《桑园留言》等"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "他们关心的是故事的“形式”，把叙事本身看做审美对象。“虚构”与“真实“在作品中有意混淆、拼接，并把构思、写作过程直接写进作品，参与文本的构成。与传统”写实“小说竭力营造与现实世界对应的”真实”幻想不同，马原明白交代创作就是一种编造。“我就是那个叫马原的汉人”是经常出现在他的小说中的句子。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "拓展了小说的表现力，强化了作家对于个性化的感觉和体验的发掘；同时，也抑制、平衡了80年代小说中“自我”膨胀的倾向。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "3、面向世俗的“新写实”"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "1989年《钟山》开辟“新写实小说大联展”：“所谓新写实小说，简单地说，就是不同于历史上已有的现实主义，也不同于现代主义‘先锋派’文学，而是近几年小说创作低谷中出现的一种新的文学倾向。这些新写实小说的创作方法仍以写实为主要特征，但特别注重现实生活原生形态的还原，真诚直面现实，直面人生。虽然从总体的文学精神来看，新写实小说仍划归为现实主义的大范畴，但无疑具有了一种新的开放性和包容性，善于吸收、借鉴现代主义各种流派在艺术上的长处。”"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "池莉、方方、刘震云、刘恒、叶兆言、苏童、范小青、李锐、李晓、迟子建等。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "放弃“宏大历史”叙述，追求“俗世化现实”"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "不作主观预设地呈现生活原始面貌，原生态，零度叙述"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "4、几位小说家的创作"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（1）残雪"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《山上的小屋》《苍老的浮云》《黄泥街》等，她的小说将现实与梦幻混淆，叙述人以精神变异者的冷峻眼光，和受害者的恐惧感，创造了一个怪异的世界。这个世界布满恶、丑的意象，人物有不断的梦呓和谵语。对乖戾心理的描述，将读者带进人的精神欲望的内心世界，展示在特定社会文化环境中人性悲陋、丑恶的黑暗面。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《山上的小屋》体现了现代意识。小说记录了一种对于现实生存的特殊把握，写出了生存中的噩梦般的恶与丑陋的景象，也刻画出了人们找不到救赎与解脱的焦虑体验，但同时这描写包含了否定的向度，它将生存揭示得如此令人厌恶，也即是表明了它的无意义。它开拓了一种非常态的语言和审美空间，语意上的含混和不合逻辑、审美上的恶感与虚幻性，都是借以表达那种噩梦感受的不可分割的形式。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（2）苏童"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《一九三四年的逃亡》《罂粟之家》《妻妾成群》，他相当重视小说的那种“古典”的故事性，在故事讲述的流畅、可读，与叙事技巧的实验中寻找平衡。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "苏童的小说，大多取材“历史”，但“历史”已被虚幻化，留存的只是一些残片。对于“意象”的经营他极为关注，尤其擅长女性人物的细腻心理的表现。在有关旧时中国家族的叙事中，常流露忧伤、颓败的情调和气息：这应该与对江南都市“繁华梦”的历史记忆有关。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《妻妾成群》 传统士大夫对旧日生活依恋；启蒙批判性削弱"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（3）格非"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《迷舟》《褐色鸟群》，“叙述怪圈”“空缺”，晦涩玄奥。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "受到博尔赫斯影响。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（4）叶兆言"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "夜泊秦淮系列，文人情调：历史的沧桑感，对世事淡然节制的态度。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（5）孙甘露"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《请女人猜谜》《信使之函》，文本实验，反小说，先锋性和实验性。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（6）余华"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《十八岁出门远行》《现实一种》《世事如烟》《鲜血梅花》《古典爱情》，“暴力”“死亡”的精确而冷静的叙述，以“局外人”的视点，和冷漠、不动声色的叙述态度，构造“背离了现状世界提供给我的秩序和逻辑”的“虚伪的形式”。他拒绝那些关于“现实”的共享的结论以其体验和想象力来挣脱“日常生活经验”的围困。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "90年代开始，《在细雨中呼喊》《活着》《许三观卖血记》“随着时间的推移，我内心的愤怒渐渐平息”，“作家的使命不是发泄，不是控诉或者揭露，他应该向人们展示高尚。这里所说的高尚不是那种单纯的美好，而是对一切事物理解之后的超然，对善与恶一视同仁，用同情的目光看待世界。”"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（7）池莉"
+      }), "，《烦恼人生》《不谈爱情》《太阳出世》“新写实三部曲”。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（8）方方"
+      }), "，《风景》，小说对于城市底层卑微、残酷的生存状况的表现，比起另一些“新写实”作品来，远为复杂，而独特的视角和叙述语调所包含的批判性，也更为一些评论家所重视。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（9）刘恒"
+      }), "，《狗日的粮食》，与严酷的自然、历史文化环境相关的生存困窘和压抑所导致的人性扭曲、变态和卑微化现象，有令人印象深刻的揭示。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
+        children: "（10）刘震云"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "《塔铺》《一地鸡毛》《单位》《官场》，关注人与环境的关系，即社会结构中人的悲剧性处境。他对于“单位”这一特殊的当代社会机制，以及这一机制对人所产生的规约和销蚀力量，做了具有发现性质的描述。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "刘震云对琐屑生活的讲述，有对“哲理深度”的更明显的追求，也就是对发生于日常生活中的，无处不在的“荒诞”和人的异化的持续的揭发。"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+/***/ }),
+
+/***/ 1020:
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+var f=__webpack_require__(6540),k=Symbol.for("react.element"),l=Symbol.for("react.fragment"),m=Object.prototype.hasOwnProperty,n=f.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,p={key:!0,ref:!0,__self:!0,__source:!0};
+function q(c,a,g){var b,d={},e=null,h=null;void 0!==g&&(e=""+g);void 0!==a.key&&(e=""+a.key);void 0!==a.ref&&(h=a.ref);for(b in a)m.call(a,b)&&!p.hasOwnProperty(b)&&(d[b]=a[b]);if(c&&c.defaultProps)for(b in a=c.defaultProps,a)void 0===d[b]&&(d[b]=a[b]);return{$$typeof:k,type:c,key:e,ref:h,props:d,_owner:n.current}}exports.Fragment=l;exports.jsx=q;exports.jsxs=q;
+
+
+/***/ }),
+
+/***/ 4848:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+
+
+if (true) {
+  module.exports = __webpack_require__(1020);
+} else {}
+
+
+/***/ }),
+
+/***/ 8453:
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   R: () => (/* binding */ useMDXComponents),
+/* harmony export */   x: () => (/* binding */ MDXProvider)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6540);
+/**
+ * @typedef {import('mdx/types.js').MDXComponents} MDXComponents
+ * @typedef {import('react').Component<{}, {}, unknown>} Component
+ * @typedef {import('react').ReactNode} ReactNode
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__WEBPACK_IMPORTED_MODULE_0__.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__WEBPACK_IMPORTED_MODULE_0__.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__WEBPACK_IMPORTED_MODULE_0__.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {JSX.Element}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__WEBPACK_IMPORTED_MODULE_0__.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+/***/ })
+
+};
+;
