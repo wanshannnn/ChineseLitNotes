@@ -61,7 +61,6 @@ const toc = [];
 function _createMdxContent(props) {
   const _components = {
     br: "br",
-    em: "em",
     hr: "hr",
     li: "li",
     ol: "ol",
@@ -76,10 +75,16 @@ function _createMdxContent(props) {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "一、晚清之余绪"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "梁后超：“能以旧风格含新意境，斯可以举革命之实矣。”《诗话》(1898)"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "黄遵宪：“诗界革命”、南社革命派诗人，抱着声调格律用典不放"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ol, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "梁后超：“能以旧风格含新意境，斯可以举革命之实矣。”《诗话》(1898)"
+        }), "\n"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "黄遵宪：“诗界革命”、南社革命派诗人，抱着声调格律用典不放"
+        }), "\n"]
+      }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "二、胡适与《尝试集》"
@@ -110,15 +115,9 @@ function _createMdxContent(props) {
         children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
           children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
             children: "学衡派"
-          }), "东南大学教授胡先骕用文言写了长达两万字的论文《评〈尝试集〉》", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.em, {
-            children: "陈子展：《尝试集》的真价值，不在建立新诗的轨范，不在与人以陶醉于其欣赏里的快感，而在与人以放胆创造的勇气。(《最近三十年中国文学史》)"
-          })]
+          }), "东南大学教授胡先骕用文言写了长达两万字的论文《评〈尝试集〉》", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "陈子展：《尝试集》的真价值，不在建立新诗的轨范，不在与人以陶醉于其欣赏里的快感，而在与人以放胆创造的勇气。(《最近三十年中国文学史》)"]
         }), "\n"]
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "P.S.现代诗歌的代表诗派"
-      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "1921年，文学研究会成立，写实主义诗风高扬；浪漫主义诗歌（郭沫若《女神》）；湖畔诗派（情诗《湖畔》）；小诗（哲理诗，冰心《繁星》）。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "三、写实主义诗歌"

@@ -57,7 +57,6 @@ const toc = [];
 function _createMdxContent(props) {
   const _components = {
     br: "br",
-    em: "em",
     hr: "hr",
     li: "li",
     ol: "ol",
@@ -80,10 +79,8 @@ function _createMdxContent(props) {
           children: "梁启超于20c开端发表《少年中国说》（1900）。1902年，他创办《新民丛报》，发表《新民说》：“欲维新吾国，当先维新吾民。”他宣传“新民”思想，为开启民智鼓与呼。“新民”即新的人的观念，这是对中国社会现代化与“人”的观念的现代化的呼唤。"
         }), "\n"]
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
-        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-          children: ["陈独秀创办《青年杂志》（第二卷起更名为《新青年》）。发刊词《敬告青年》：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.em, {
-            children: "“新文化是：1.自主而而非奴隶的；2.进步而非保守的；3.进取的而非退隐的；4.世界的而非锁国的；5.实利的而非虚文的；6.科学的而非想象的。”"
-          })]
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "陈独秀创办《青年杂志》（第二卷起更名为《新青年》）。发刊词《敬告青年》：“新文化是：1.自主而而非奴隶的；2.进步而非保守的；3.进取的而非退隐的；4.世界的而非锁国的；5.实利的而非虚文的；6.科学的而非想象的。”"
         }), "\n"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
@@ -100,10 +97,8 @@ function _createMdxContent(props) {
           children: "宣言书：1917年1月，胡适《文学改良刍议》，“八事”主张；要求书面语与口语接近，以白话文学为“正宗”。"
         }), "\n"]
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
-        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
-          children: ["1917年2月，陈独秀《文学革命论》，提出“三大主义”：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.em, {
-            children: "推倒雕琢的阿谀的贵族文学，建设平易的抒情的国民文学；推倒陈腐的铺张的古典文学，建设新鲜的立诚的写实文学；推倒迂晦的艰涩的山林文学，建设明了通俗的社会文学。"
-          })]
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "1917年2月，陈独秀《文学革命论》，提出“三大主义”：推倒雕琢的阿谀的贵族文学，建设平易的抒情的国民文学；推倒陈腐的铺张的古典文学，建设新鲜的立诚的写实文学；推倒迂晦的艰涩的山林文学，建设明了通俗的社会文学。"
         }), "\n"]
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
         children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
@@ -118,16 +113,26 @@ function _createMdxContent(props) {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "二、“双簧信”"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "寂寞之中，钱玄同化名“王敬轩”，模仿旧文人的种种反对新文学与白话文的言论，写了一封致《新青年》的信《文学革命之反响》。刘半农据此逐一予以反驳《复王敬轩书》，引发社会关注。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "寂寞之中，钱玄同化名“王敬轩”，模仿旧文人的种种反对新文学与白话文的言论，写了一封致《新青年》的信《文学革命之反响》。刘半农据此逐一予以反驳《复王敬轩书》，引发社会关注。"
+        }), "\n"]
+      }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "三、统一战线的形成"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "1918年1月，《新青年》由陈独秀、钱玄同、胡适、李大钊、沈尹默等轮流主编。陈独秀办《每周评论》。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "1919年1月，北大学生傅斯年、罗家伦等办《新潮》月刊。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "1918年1月，《新青年》由陈独秀、钱玄同、胡适、李大钊、沈尹默等轮流主编。陈独秀办《每周评论》。"
+        }), "\n"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "1919年1月，北大学生傅斯年、罗家伦等办《新潮》月刊。"
+        }), "\n"]
+      }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "四、理论贡献:如何建设新文学"
@@ -175,10 +180,16 @@ function _createMdxContent(props) {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "五、“国文”改”国语”"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "1919年，白话报刊400多种。北洋政府通令国民学校“国文”改“国语”，采用语体文教学"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "新诗的创立、小说的革新、话剧的传入、美文的倡导等，使文体得到大解放与大丰富。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "1919年，白话报刊400多种。北洋政府通令国民学校“国文”改“国语”，采用语体文教学。"
+        }), "\n"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+          children: "新诗的创立、小说的革新、话剧的传入、美文的倡导等，使文体得到大解放与大丰富。"
+        }), "\n"]
+      }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "六、文学思潮"

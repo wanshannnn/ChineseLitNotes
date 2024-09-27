@@ -61,7 +61,6 @@ const toc = [];
 function _createMdxContent(props) {
   const _components = {
     br: "br",
-    em: "em",
     hr: "hr",
     li: "li",
     ol: "ol",
@@ -129,11 +128,7 @@ function _createMdxContent(props) {
         children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.p, {
           children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
             children: "《二马》"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "马氏父子：马氏父子俩到伦敦经商、读书，老马是老派的中国人。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.em, {
-            children: "（“他不好，也不怎么坏；他对过去的文化负责，所以自尊自傲，对将来他茫然，所以无从努力，也不想努力。”）"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "通过比较中英两国民族精神差异，深入反思了中国的文化传统。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.em, {
-            children: "（“民族要是老了，人人生下来就是‘出窝儿老’。出窝老是生下来便眼花耳聋痰喘咳嗽的!一国里要有这么四万万出窝老，这个老国便越来越老，直到老得爬也爬不动，便一声不出的呜呼哀哉了!”）"
-          })]
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "马氏父子：马氏父子俩到伦敦经商、读书，老马是老派的中国人。（“他不好，也不怎么坏；他对过去的文化负责，所以自尊自傲，对将来他茫然，所以无从努力，也不想努力。”）", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "通过比较中英两国民族精神差异，深入反思了中国的文化传统。（“民族要是老了，人人生下来就是‘出窝儿老’。出窝老是生下来便眼花耳聋痰喘咳嗽的!一国里要有这么四万万出窝老，这个老国便越来越老，直到老得爬也爬不动，便一声不出的呜呼哀哉了!”）"]
         }), "\n"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ol, {

@@ -45,6 +45,10 @@ const metadata = {
   "previous": {
     "title": "4. 文字",
     "permalink": "/ChineseLitNotes/docs/现代汉语/文字"
+  },
+  "next": {
+    "title": "6. 语法",
+    "permalink": "/ChineseLitNotes/docs/现代汉语/语法"
   }
 };
 const assets = {

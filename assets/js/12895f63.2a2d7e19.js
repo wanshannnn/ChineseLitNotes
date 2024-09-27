@@ -27,7 +27,7 @@ const contentTitle = undefined;
 const metadata = {
   "id": "当代文学/从现代到当代",
   "title": "从现代到当代",
-  "description": "*",
+  "description": "当代文学中的“当代”与“文学”",
   "source": "@site/docs/当代文学/1. 从现代到当代.md",
   "sourceDirName": "当代文学",
   "slug": "/当代文学/从现代到当代",
@@ -67,7 +67,7 @@ function _createMdxContent(props) {
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "当代文学中的“当代”与“文学”"
       })

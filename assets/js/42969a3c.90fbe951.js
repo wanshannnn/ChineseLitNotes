@@ -27,7 +27,7 @@ const contentTitle = undefined;
 const metadata = {
   "id": "当代文学/十七年散文话剧",
   "title": "十七年散文话剧",
-  "description": "一、散文",
+  "description": "第一节 十七年散文与杂文",
   "source": "@site/docs/当代文学/6. 十七年散文话剧.md",
   "sourceDirName": "当代文学",
   "slug": "/当代文学/十七年散文话剧",
@@ -60,6 +60,8 @@ const assets = {
 const toc = [];
 function _createMdxContent(props) {
   const _components = {
+    br: "br",
+    hr: "hr",
     li: "li",
     p: "p",
     strong: "strong",
@@ -70,7 +72,7 @@ function _createMdxContent(props) {
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
     children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "一、散文"
+        children: "第一节 十七年散文与杂文"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
@@ -104,31 +106,27 @@ function _createMdxContent(props) {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "3、十七年散文作家与作品"
       })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+      children: "新时期以来，关于十七年散文名家，评论界有杨朔、秦牧、刘白羽“三大家”之说，也有杨、秦、刘、吴（伯箫）“四大家”之说。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "杨朔：《香山红叶》《荔枝蜜》《茶花赋》"
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.li, {
+        children: ["杨朔结集的有《亚洲日出》、《海市》、《东风第一枝》和《生命泉》。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.br, {}), "\n", "“杨朔模式”：作者借鉴古典诗文的意境，“总要象写诗那样，再三剪裁材料，安排布局，推敲字句，然后写成文章”。构思上寓大于小、寓远于近，意境上比兴取义、象征比附，结构上峰回路转、卒章显志，这些是杨朔散文的显著特色，成为当时人所称道、进人所诟病。"]
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "刘白羽：《红玛瑙集》《平明小札》"
+        children: "秦牧散文以其思想性、知识性、趣味性，为当时读者所欢迎。"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "秦牧：《星下集》《贝壳集》《花城》"
+        children: "刘白羽代表作《红玛瑙集》，代表着他散文创作的风格。"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "曹靖华《花》"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "吴伯箫《记一辆纺车》《窑洞风景》"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "周作人的《亦报》随笔"
+        children: "吴伯萧代表作《北极星》，代表着作者在本时期创作的最高艺术水平。"
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "4、杂文的命运"
+        children: "4、杂文的短暂复苏"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "敏感的问题"
+        children: "第一次复苏：1956年《人民日报》改版以后，把复兴散文作为该报副刊改革的措施。这期间做出突出成绩的是：徐懋庸和王任叔（巴人）。徐懋庸《打杂新集》（后因反右未能出版），巴人出版了《遵命集》，编定了《点滴集》。"
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "徐懋庸"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
-        children: "邓拓、吴南星"
+        children: "第二次复苏：1962年5月，《人民日报》副刊开辟“长短录”专栏，改杂文专栏由杂文家陈笑雨（“马铁丁”三作家之一）主持，邀请夏衍、吴晗、廖沫沙、孟超、唐弢为特约撰稿人。此间，邓拓的《燕山夜话》、吴南星（吴晗、邓拓、廖沫沙之集体笔名）的《三家村札记》，在北京市委的机关刊物《前线》上先行推出。"
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
@@ -140,9 +138,9 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
         children: "《文史资料选辑》"
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
-        children: "二、话剧"
+        children: "第二节 十七年话剧"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
@@ -228,14 +226,18 @@ function _createMdxContent(props) {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "（3）曹禺《胆剑篇》（1961年）"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "勾践“卧薪尝胆，誓血国耻”的意志，对“自强不息”的强调，与当时国家面临的政治、经济困难和危机有关。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "勾践“卧薪尝胆，誓血国耻”的意志，对“自强不息”的强调，与当时国家面临的政治、经济困难和危机有关。"
+      }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.strong, {
         children: "4、话剧的高潮"
       })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.p, {
-      children: "1963年到文革前夕，出现了话剧创作和演出的高潮，代表话剧：《霓虹灯下的哨兵》《千万不要忘记》《年青的一代》"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components.li, {
+        children: "1963年到文革前夕，出现了话剧创作和演出的高潮，代表话剧：《霓虹灯下的哨兵》《千万不要忘记》《年青的一代》"
+      }), "\n"]
     })]
   });
 }
