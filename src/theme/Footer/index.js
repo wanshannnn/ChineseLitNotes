@@ -1,5 +1,5 @@
 import React from 'react';
-import ViewCount from '../../components/ViewCount';
+import ViewCount from '../../components/HomepageFeatures/ViewCount';
 
 const CustomFooter = () => {
   return (
