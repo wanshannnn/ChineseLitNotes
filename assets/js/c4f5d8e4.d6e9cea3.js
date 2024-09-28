@@ -19,7 +19,7 @@ var clsx = __webpack_require__(4164);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/useDocusaurusContext.js
 var useDocusaurusContext = __webpack_require__(4586);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Layout/index.js + 46 modules
-var Layout = __webpack_require__(7110);
+var Layout = __webpack_require__(4410);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Heading/index.js
 var Heading = __webpack_require__(4608);
 // EXTERNAL MODULE: ./src/components/HomepageFeatures/styles.module.css
