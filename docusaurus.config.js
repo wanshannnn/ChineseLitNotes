@@ -86,6 +86,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'Sidebar4',
             position: 'left',
+            label: '公文写作',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'Sidebar5',
+            position: 'left',
             label: '交流区',
           },
           {
@@ -97,7 +103,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} wanshannnn. All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ChineseLitNotes. All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,
