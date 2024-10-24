@@ -92,6 +92,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'Sidebar5',
             position: 'left',
+            label: '古代文学',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'Sidebar6',
+            position: 'left',
             label: '交流区',
           },
           {
