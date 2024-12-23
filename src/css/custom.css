@@ -1,0 +1,26 @@
+/**
+ * 全局CSS配置
+ */
+
+:root {
+  --ifm-color-primary: #b34d32;
+  --ifm-color-primary-dark: #9a4327;
+  --ifm-color-primary-darker: #7f3621;
+  --ifm-color-primary-darkest: #6a2a1a;
+  --ifm-color-primary-light: #cc6b48;
+  --ifm-color-primary-lighter: #e29770;
+  --ifm-color-primary-lightest: #f0b28f;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #c05a39;
+  --ifm-color-primary-dark: #a04931;
+  --ifm-color-primary-darker: #8a3c26;
+  --ifm-color-primary-darkest: #77311e;
+  --ifm-color-primary-light: #d87c56;
+  --ifm-color-primary-lighter: #e89d75;
+  --ifm-color-primary-lightest: #f2bc94;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
