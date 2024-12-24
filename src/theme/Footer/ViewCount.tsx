@@ -1,5 +1,10 @@
 import React, { useEffect } from 'react';
-import Valine from 'valine';
+
+declare global {
+    interface Window {
+        Valine: any;
+    }
+}
 
 type ViewCountProps = {
     path: string;
@@ -7,12 +12,14 @@ type ViewCountProps = {
 
 const ViewCount: React.FC<ViewCountProps> = ({ path }) => {
     useEffect(() => {
-        new Valine({
-            el: '#vcomments',
-            appId: 'd13HR3a64pIVe8WFPOInFj0q-gzGzoHsz',
-            appKey: '5GmVxEuMonJNckhjA7JsF5iC',
-            visitor: true,
-        });
+        if (typeof window !== 'undefined' && window.Valine) {
+            new window.Valine({
+                el: '#vcomments',
+                appId: 'd13HR3a64pIVe8WFPOInFj0q-gzGzoHsz',
+                appKey: '5GmVxEuMonJNckhjA7JsF5iC',
+                visitor: true,
+            });
+        }
     }, [path]);
 
     return (

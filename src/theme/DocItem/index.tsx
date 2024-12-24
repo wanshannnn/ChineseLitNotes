@@ -1,16 +1,29 @@
 import React, { useEffect } from 'react';
 import OriginalDocItem from '@theme-original/DocItem';
-import Valine from 'valine'
+
+declare global {
+    interface Window {
+        Valine: any;
+    }
+}
 
 type DocItemProps = {
-    title: string;
-    content: string;
 };
 
 const DocItem: React.FC<DocItemProps> = (props) => {
     useEffect(() => {
         const initValine = () => {
-            new Valine({
+            if (!window.Valine) {
+                console.error("Valine is not loaded");
+                return;
+            }
+
+            const commentsContainer = document.getElementById('vcomments');
+            if (!commentsContainer) {
+                return;
+            }
+
+            new window.Valine({
                 el: '#vcomments',
                 appId: 'd13HR3a64pIVe8WFPOInFj0q-gzGzoHsz',
                 appKey: '5GmVxEuMonJNckhjA7JsF5iC',
@@ -18,9 +31,29 @@ const DocItem: React.FC<DocItemProps> = (props) => {
                 placeholder: '在这里输入评论...',
             });
         };
-        if (Valine) {
+
+        if (!window.Valine) {
+            const script = document.createElement('script');
+            script.src = 'https://unpkg.com/valine/dist/Valine.min.js';
+            script.async = true;
+            script.onload = () => {
+                console.log('Valine loaded successfully');
+                initValine();
+            };
+            script.onerror = () => {
+                console.error('Error loading Valine script');
+            };
+            document.body.appendChild(script);
+        } else {
             initValine();
         }
+
+        return () => {
+            const existingScript = document.querySelector('script[src="https://unpkg.com/valine/dist/Valine.min.js"]');
+            if (existingScript) {
+                document.body.removeChild(existingScript);
+            }
+        };
     }, []);
 
     return (

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import ViewCount from './ViewCount';
 import './CustomFooter.css';
 
@@ -29,7 +29,7 @@ const CustomFooter: React.FC = () => {
             </div>
             <div id="footer-view-count">
                 {typeof window !== 'undefined' && (
-                    <ViewCount path={window.location.pathname}/>
+                    <ViewCount path={window.location.pathname} />
                 )}
             </div>
         </footer>
