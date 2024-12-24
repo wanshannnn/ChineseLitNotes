@@ -1,11 +1,32 @@
 .features {
   display: flex;
-  align-items: center;
-  padding: 2rem 0;
+  flex-direction: column;
+  padding: 2rem;
+  margin-bottom: 3rem;
   width: 100%;
+  align-items: flex-start;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.features h3 {
+  text-align: left;
+  font-size: 1.5rem;
+  margin-top: 5.0rem;
+  margin-bottom: 1.0rem;
+}
+
+.features p {
+  text-align: left;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .features {
+    padding: 3rem 1rem;
+  }
+
+  .features .col {
+    margin-bottom: 30px;
+  }
 }

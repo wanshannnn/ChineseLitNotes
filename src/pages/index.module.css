@@ -16,3 +16,23 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroButtonContainer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button--secondary {
+  background-color: #ff6f61;
+  color: white;
+  font-size: 18px;
+  padding: 12px 30px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.button--secondary:hover {
+  background-color: #e55e4e;
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}

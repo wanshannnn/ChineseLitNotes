@@ -8,7 +8,7 @@ const CustomFooter: React.FC = () => {
             <div className="footer-column">
                 <h3>关于ChineseLitNotes</h3>
                 <ul>
-                    <li><a href="https://github.com/wanshannnn/ChineseLitNotes/README.md">关于我们</a></li>
+                    <li><a href="">关于我们</a></li>
                 </ul>
             </div>
             <div className="footer-column">
@@ -25,7 +25,7 @@ const CustomFooter: React.FC = () => {
                 </ul>
             </div>
             <div style={{margin: 0}}>
-                Copyright © {new Date().getFullYear()} ChineseLitNotes. All Rights Reserved.
+                Copyright © {new Date().getFullYear()} ChineseLitNotes.
             </div>
             <div id="footer-view-count">
                 {typeof window !== 'undefined' && (

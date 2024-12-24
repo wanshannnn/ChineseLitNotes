@@ -94,6 +94,12 @@ const config: Config = {
           label: '交流区',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'Sidebar7',
+          position: 'left',
+          label: '关于我们',
+        },
+        {
           href: 'https://github.com/wanshannnn/ChineseLitNotes',
           label: 'GitHub',
           position: 'right',
