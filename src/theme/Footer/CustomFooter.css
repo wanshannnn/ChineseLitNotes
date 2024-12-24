@@ -56,6 +56,10 @@
     margin-top: 20px;
 }
 
-.visitors-count {
+.post-meta-item-text {
+    font-style: normal !important;
+}
+
+.leancloud-visitors-count {
     font-style: normal !important;
 }

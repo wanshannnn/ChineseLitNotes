@@ -15,17 +15,17 @@ const ViewCount: React.FC<ViewCountProps> = ({ path }) => {
         if (typeof window !== 'undefined' && window.Valine) {
             new window.Valine({
                 el: '#vcomments',
-                appId: 'd13HR3a64pIVe8WFPOInFj0q-gzGzoHsz',
-                appKey: '5GmVxEuMonJNckhjA7JsF5iC',
+                appId: 'wcVfAvrF4EziWk0SqEO45PkL-gzGzoHsz',
+                appKey: 'Mi0ix1SmsqCTgNk2G8EHjUEG',
                 visitor: true,
             });
         }
     }, [path]);
 
     return (
-        <span id={path} className="valine_visitors" data-flag-title="ChineseLitNotes">
-        <em className="visitors-count">阅读量：</em>
-        <i className="visitors-count">0</i>
+        <span id={path} className="leancloud_visitors" data-flag-title="ChineseLitNotes">
+        <em className="post-meta-item-text">阅读量：</em>
+        <i className="leancloud-visitors-count">0</i>
         </span>
     );
 };

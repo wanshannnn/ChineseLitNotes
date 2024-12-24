@@ -25,8 +25,8 @@ const DocItem: React.FC<DocItemProps> = (props) => {
 
             new window.Valine({
                 el: '#vcomments',
-                appId: 'd13HR3a64pIVe8WFPOInFj0q-gzGzoHsz',
-                appKey: '5GmVxEuMonJNckhjA7JsF5iC',
+                appId: 'wcVfAvrF4EziWk0SqEO45PkL-gzGzoHsz',
+                appKey: 'Mi0ix1SmsqCTgNk2G8EHjUEG',
                 path: window.location.pathname,
                 placeholder: '在这里输入评论...',
             });
