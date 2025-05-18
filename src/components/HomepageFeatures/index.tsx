@@ -18,15 +18,6 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: '交流区域',
-        description: (
-            <>
-                <a href={"https://wanshannnn.github.io/ChineseLitNotes/docs/交流区/问答"}>问答区</a>丨
-                <a href={"https://wanshannnn.github.io/ChineseLitNotes/docs/交流区/闲聊"}>闲聊区</a>
-            </>
-        ),
-    },
-    {
         title: '联系我们',
         description: (
             <>

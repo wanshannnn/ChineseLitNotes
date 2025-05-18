@@ -91,12 +91,6 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'Sidebar6',
           position: 'left',
-          label: '交流区',
-        },
-        {
-          type: 'docSidebar',
-          sidebarId: 'Sidebar7',
-          position: 'left',
           label: '关于我们',
         },
         {

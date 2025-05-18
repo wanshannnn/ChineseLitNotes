@@ -29,7 +29,7 @@
 - `docusaurus.config.ts`: Docusaurus配置文件
 - `package-lock.json`
 - `package.json`
-- `sidebars.ts`: 定义侧边栏
+- `sidebars.ts`: 定义导航栏
 - `tsconfig.json`
 
 Build with Docusaurus, Valine, Github Pages.
